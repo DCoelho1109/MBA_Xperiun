@@ -5,3 +5,4 @@ Testanto git
 
 Testando git - atualização 2
 
+Testando git - atualização 3
